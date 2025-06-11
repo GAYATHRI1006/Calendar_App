@@ -1,12 +1,40 @@
-# React + Vite
+# React Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive and user-friendly calendar application built using **React**. It displays the days of the selected month and year, highlights the current day, and allows navigation through months and years.
 
-Currently, two official plugins are available:
+## 🔗 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Link**: [Click here to view the demo](https://calendar-app-sample.vercel.app/)
 
-## Expanding the ESLint configuration
+## Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Calendar App Screenshot](calendar1.png)
+![Calendar App Screenshot](calendar2.png)
+![Calendar App Screenshot](calendar3.png)
+
+## Features
+
+- Displays full calendar view of the selected month.
+- Navigate to previous or next month.
+- Select any month and year from dropdowns.
+- Highlights today’s date.
+- Fully responsive design.
+
+
+## Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/react-calendar-app.git
+cd react-calendar-app
+### 2. Install Dependencies
+```bash npm install
+### 3. Run the App
+```bash npm run dev
+The app will start at http://localhost:3000
+
+# Tech Stack
+-React
+-JavaScript
+-HTML5
+-CSS3
