@@ -6,11 +6,14 @@ This is a responsive and user-friendly calendar application built using **React*
 
  🔗 **Live Link**: [Click here to view the demo](https://calendar-app-sample.vercel.app/)
 
+## Developed By
+**Gayathri G**  
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
+
 ## Screenshot
 
 ![Calendar App Screenshot](calendar1.png)
 ![Calendar App Screenshot](calendar2.png)
-
 
 ## Features
 
@@ -20,21 +23,29 @@ This is a responsive and user-friendly calendar application built using **React*
 - Highlights today’s date.
 - Fully responsive design.
 
-
 ## Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/react-calendar-app.git
 cd react-calendar-app
-### 2. Install Dependencies
-```bash npm install
-### 3. Run the App
-```bash npm run dev
-The app will start at http://localhost:3000
+```
 
-# Tech Stack
--React
--JavaScript
--HTML5
--CSS3
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+## Tech Stack
+
+- **React**  
+- **JavaScript**  
+- **HTML5**  
+- **CSS3**
