@@ -2,9 +2,9 @@
 
 This is a responsive and user-friendly calendar application built using **React**. It displays the days of the selected month and year, highlights the current day, and allows navigation through months and years.
 
-## 🔗 Demo
+## Demo
 
-**Live Link**: [Click here to view the demo](https://calendar-app-sample.vercel.app/)
+ 🔗 **Live Link**: [Click here to view the demo](https://calendar-app-sample.vercel.app/)
 
 ## Screenshot
 
