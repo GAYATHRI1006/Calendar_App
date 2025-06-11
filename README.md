@@ -13,6 +13,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 ## Screenshot
 
 ![Calendar App Screenshot](calendar1.png)
+
 ![Calendar App Screenshot](calendar2.png)
 
 ## Features
@@ -28,8 +29,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-calendar-app.git
-cd react-calendar-app
+git clone https://github.com/GAYATHRI1006/Calendar_App.git
 ```
 
 ### 2. Install Dependencies
