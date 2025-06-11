@@ -10,7 +10,7 @@ This is a responsive and user-friendly calendar application built using **React*
 
 ![Calendar App Screenshot](calendar1.png)
 ![Calendar App Screenshot](calendar2.png)
-![Calendar App Screenshot](calendar3.png)
+
 
 ## Features
 
